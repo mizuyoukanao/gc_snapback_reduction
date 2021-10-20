@@ -1,0 +1,2 @@
+# gc_snapback_reduction
+GCコンをArduino経由で読み取り、跳ね戻りを軽減するプロジェクト
